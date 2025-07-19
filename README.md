@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Casuarina, a NTU Year 4 Computer Science student
-- 👀 I’m interested in technology, music, and many more 
-- 🌱 I’m currently learning how Blockchain technology works and developing decentralized applications
+- 👋 Hi, I’m Casuarina, my passion for IT fuels my motivation in this domain, and I'm eager to create impactful changes through technology.
 
 <!---
 Casuarina07/Casuarina07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
